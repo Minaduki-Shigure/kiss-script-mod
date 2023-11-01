@@ -8,8 +8,8 @@
 // @license       GPL-3.0
 // @match         *://*/*
 // @icon          https://fishjar.github.io/kiss-translator/images/logo192.png
-// @downloadURL   https://fishjar.github.io/kiss-translator/kiss-translator.user.js
-// @updateURL     https://fishjar.github.io/kiss-translator/kiss-translator.user.js
+// @downloadURL   https://github.com/Minaduki-Shigure/kiss-script-mod/raw/master/kiss-translator-ios-safari.user.js
+// @updateURL     https://github.com/Minaduki-Shigure/kiss-script-mod/raw/master/kiss-translator-ios-safari.user.js
 // @grant         GM.xmlHttpRequest
 // @grant         GM.registerMenuCommand
 // @grant         GM.setValue
